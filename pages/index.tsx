@@ -21,9 +21,9 @@ const Home: NextPage = () => {
           <source src="/jw-bg-vid.mp4" type="video/mp4" />
         </video>
         <h1 className=" text-6xl font-bold">
-          Kaelis Butt{' '}
+          JW
           <a className="text-blue-600" href="https://nextjs.org">
-            For Breakfast <div className="com"></div>
+            <div className="com"></div>
           </a>
         </h1>
       </main>
